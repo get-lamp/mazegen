@@ -1,0 +1,37 @@
+.cell {
+	float: left;
+	background: white;
+	border: 1px solid black;
+}
+
+.entrance {
+	background: #D3DDBD;
+}
+
+.exit {
+	background: #FAE1DE;
+}
+
+.concrete {
+	background: black;
+}
+	
+.maze {
+	margin: 0 auto;
+}
+
+.north {
+	border-top: 1px solid white;
+}
+
+.east{
+	border-right: 1px solid white;
+}
+
+.south {
+	border-bottom: 1px solid white;
+}
+
+.west {
+	border-left: 1px solid white;
+}
